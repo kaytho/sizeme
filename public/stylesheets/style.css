@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#conversionbox{
+  background-color: gray;
+  border: 2px solid pink;
+  height: 600px;
+}
+
+#conversionbox p{
+  margin-top: 500px;
+  text-align: center;
+}
